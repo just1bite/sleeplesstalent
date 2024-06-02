@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "582875867905",
+    "project_id": "sleeplesstalent",
+    "storage_bucket": "sleeplesstalent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582875867905:android:b29c09f64a385cec3ec900",
+        "android_client_info": {
+          "package_name": "com.example.sleeplesstalent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOV0Zdh1R_V-LkfHMuimYys5dxLIiIkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582875867905:android:59f554f5584d3b8c3ec900",
+        "android_client_info": {
+          "package_name": "com.example.sleeplesstalented"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOV0Zdh1R_V-LkfHMuimYys5dxLIiIkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
